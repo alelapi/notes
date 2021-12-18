@@ -1,0 +1,12 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Some scattered notes",
+  "main": "index.js",
+  "repository": "https://github.com/alelapi/notes.git",
+  "author": "Alessio Lapi <alessio.lapi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "docsify serve docs"
+  }
+}
