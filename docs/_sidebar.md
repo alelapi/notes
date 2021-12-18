@@ -16,4 +16,4 @@
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)
   - [Tests](frontend/tests.md)
-  - [Web Vitals](frontend/web-vitals.md)
+  - [Web Vitals](frontend/webvitals.md)
