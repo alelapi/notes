@@ -1,3 +1,3 @@
-# JSNAD certification exam
+# Notes
 
-My preparation to JSNAD certification exam
+Some personal scattered notes
