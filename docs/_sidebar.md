@@ -17,6 +17,9 @@
   - [Architectures](frontend/architectures.md)
   - [Tests](frontend/tests.md)
   - [Web Vitals](frontend/webvitals.md)
+- Backend
+  - [REST API](backend/rest-api.md)
+  - [CRUD](backend/crud.md)
 - Programming
   - [Tech debt](programming/tech-debt.md)
   - [Clean code](programming/clean-code.md)
