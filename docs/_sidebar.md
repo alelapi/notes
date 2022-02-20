@@ -4,7 +4,6 @@
   - [Iterators and Iteration](javascript/iterators.md)
   - [Closures](javascript/closures.md)
   - [IIFE](javascript/iife.md)
-  - [Module Design Pattern](javascript/module-pattern.md)
   - [Generator functions](javascript/generators.md)
   - [Callback Hell](javascript/callback-hell.md)
   - [Inversion of control](javascript/inversion-control.md)
@@ -13,6 +12,8 @@
   - [Javascript releases](javascript/releases.md)
   - [Prototypal inheritance](javascript/prototypal-inheritance.md)
   - [Immutability](javascript/immutability.md)
+  - Pattern
+    - [Module Design Pattern](javascript/module-pattern.md)
 - Frontend
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)
