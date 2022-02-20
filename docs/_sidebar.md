@@ -14,6 +14,8 @@
   - [Immutability](javascript/immutability.md)
   - Pattern
     - [Module Design Pattern](javascript/module-pattern.md)
+    - [Singleton](javascript/singleton.md)
+    - [Proxy](javascript/proxy.md)
 - Frontend
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)
