@@ -22,3 +22,4 @@ There are many methods that you can add to the Proxy handler:
 - set(): A trap for setting property values.
 - setPrototypeOf(): A trap for Object.setPrototypeOf.
 
+Within Proxy, you can access to the target object through `Reflect`, that expose same methods with same signature of a Proxy.
