@@ -16,6 +16,7 @@
     - [Module Design Pattern](javascript/module-pattern.md)
     - [Singleton](javascript/singleton.md)
     - [Proxy](javascript/proxy.md)
+    - [Observer](javascript/observer.md)
 - Frontend
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)

@@ -18,6 +18,22 @@ let rabbit = {
 rabbit.__proto__ = animal;
 ```
 
+If you use class:
+```
+class Dog {
+  constructor(name) {
+    this.name = name;
+  }
+
+  bark() {
+    return 'Woof!';
+  }
+}
+```
+You can access to constructor with global prototype (`Dog.prototype`) or by instance (`dog1.__proto__`).
+
+`Object.create(obj)` create an object of same prototype of `obj`.
+
 Limitations:
 - The references can’t go in circles. JavaScript will throw an error if we try to assign __proto__ in a circle.
 - The value of __proto__ can be either an object or null. Other types are ignored.
