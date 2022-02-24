@@ -17,6 +17,7 @@
     - [Singleton](javascript/singleton.md)
     - [Proxy](javascript/proxy.md)
     - [Observer](javascript/observer.md)
+    - [Mixin](javascript/mixin.md)
 - Frontend
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)
