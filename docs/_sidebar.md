@@ -18,6 +18,7 @@
     - [Proxy](javascript/proxy.md)
     - [Observer](javascript/observer.md)
     - [Mixin](javascript/mixin.md)
+    - [Mediator Pattern](javascript/mediator-pattern.md)
 - Frontend
   - [Data normalization](frontend/data-normalization.md)
   - [Architectures](frontend/architectures.md)
