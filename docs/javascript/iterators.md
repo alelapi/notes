@@ -49,6 +49,12 @@ interface IteratorResult {
 ```
 
 ```
+async function* createAsyncIterable(syncIterable) {
+    for (const elem of syncIterable) {
+        yield elem;
+    }
+}
+
 async function f() {
     const asyncIterable = createAsyncIterable(['a', 'b']);
     const asyncIterator = asyncIterable[Symbol.asyncIterator]();
