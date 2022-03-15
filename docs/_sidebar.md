@@ -12,6 +12,8 @@
   - [Javascript releases](javascript/releases.md)
   - [Prototypal inheritance](javascript/prototypal-inheritance.md)
   - [Immutability](javascript/immutability.md)
+  - [Bitwise Operator](javascript/bitwise-operator.md)
+  - [Symbol](javascript/symbol.md)
   - Pattern
     - [Module Design Pattern](javascript/module-pattern.md)
     - [Singleton](javascript/singleton.md)
