@@ -32,3 +32,5 @@
 - Programming
   - [Tech debt](programming/tech-debt.md)
   - [Clean code](programming/clean-code.md)
+- Git
+  - [Commits](git/commits.md)
